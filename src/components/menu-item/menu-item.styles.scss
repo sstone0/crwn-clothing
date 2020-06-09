@@ -62,4 +62,14 @@
       }
     }
   }
+
+  @media (max-width: 570px) {
+    .menu-item {
+      width: 45%;
+
+      &.large {
+        height: 240px;
+    }
+    }
+  }
   
